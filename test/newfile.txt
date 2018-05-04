@@ -1,0 +1,2 @@
+this is a test for Git adding files.
+the 2nd file.
